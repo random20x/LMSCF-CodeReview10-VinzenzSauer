@@ -1,0 +1,17 @@
+
+	Here are some important information about this CR & following CR's for support.:
+
+		(1) YouTube.:
+			-  https://www.youtube.com/watch?v=hU9Svs9F-ns
+			-  https://www.youtube.com/watch?v=3xRMUDC74Cw
+			-  https://www.youtube.com/watch?v=JZdMXUIMdQw
+
+		(2) Font Awesome.:
+			-  helpful stuff like the button symbols (trashcans, edit, work)
+	
+		(3) Books.:
+			-  Einstieg in PHP 7 und MySQL Ideal fuer Programmieranfaenger
+				(all the stuff is included there)
+
+		(4) Real world examples.:
+			-  First make a small plan & than always look for real world examples (eg. https://buechereien.wien.gv.at/Mediensuche/Einfache-Suche?search=php)
