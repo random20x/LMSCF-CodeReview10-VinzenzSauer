@@ -1,7 +1,6 @@
 <?php 
 require_once('db_connect.php');
 
-
 $table = '`media`';
 $columns = '`'.implode('`, `',array_keys($_POST)).'`';
 $values = "'".implode("', '",$_POST)."'";
